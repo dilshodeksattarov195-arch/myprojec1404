@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routersetch",
+        "uuid": 7905924,
+        "checksum": "8cbxdh"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
